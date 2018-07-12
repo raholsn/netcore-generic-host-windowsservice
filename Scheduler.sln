@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scheduler", "Scheduler\Scheduler.csproj", "{CC8E2B9A-180F-49EB-9FC3-851F4F630F59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scheduler", "src\Scheduler\Scheduler.csproj", "{CC8E2B9A-180F-49EB-9FC3-851F4F630F59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{F38265D0-44DD-4E40-897F-2234D65E10AD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "src\Application\Application.csproj", "{F38265D0-44DD-4E40-897F-2234D65E10AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistance", "Persistance\Persistance.csproj", "{A9BF5D33-94DC-45D3-BAA9-E27F7469F479}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistance", "src\Persistance\Persistance.csproj", "{A9BF5D33-94DC-45D3-BAA9-E27F7469F479}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{460A80F3-69E2-432F-AA12-21C3A37AE612}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "src\Domain\Domain.csproj", "{460A80F3-69E2-432F-AA12-21C3A37AE612}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
